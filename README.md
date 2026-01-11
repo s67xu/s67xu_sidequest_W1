@@ -16,7 +16,8 @@ This project does not include any assets.
 
 ---
 ## References
-Cochrane, K. (2026) Visual Studio Code + GitHub Starter Guide. Available at: https://learn.uwaterloo.ca/d2l/le/content/1221157/fullscreen/6370413/View (Accessed: 09 January 2026). 
+[1] Karen Cochrane and David Han. 2026. *GBDA302 Starter Guide: From Setup to Submission*. GBDA 302: Global Digital Project 2, University of Waterloo. Unpublished course Google document.
+
 
 ---
 
