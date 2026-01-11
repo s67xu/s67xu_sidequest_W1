@@ -3,7 +3,8 @@ Side Quest Week 1: VS Code Function Experiment
 
 ---
 ## Description
-This assignment is for experienmenting VS Code and getting familiar with the assignment format requirements. Therefore this project does not inlcude any interactive design.
+This assignment is for experienmenting VS Code and getting familiar with the assignment format requirements. 
+The sketch displays animated, randomly generated blue dots to create "splash effect", at the same time avoiding the central area for the message "Is This Seat Taken?"
 
 ---
 ## Interaction Instructions
